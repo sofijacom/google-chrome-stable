@@ -3,10 +3,4 @@
 google-chrome-stable for VOID Linux
 
 
-<img width="750" height="422" alt="2025-09-18_13-21" src="https://github.com/user-attachments/assets/ace82af6-a370-426b-9b89-8ba3587de0f2" />
-
-
-<br>
-<br>
-
-<img width="750" height="422" alt="2025-09-18_14-10" src="https://github.com/user-attachments/assets/f14d34ca-0016-4b5b-b11c-cefcaedc6736" />
+<img width="1366" height="768" alt="2025-09-18_14-19" src="https://github.com/user-attachments/assets/fcaa1be1-333b-485c-879c-3462513155db" />
